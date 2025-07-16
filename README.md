@@ -73,7 +73,7 @@ Sample Screenshot
 
 4. Clean Up
 ```
-curl -sSL https://raw.githubusercontent.com/your-org/nginx-json-elk-on-eks/main/cleanup.sh | bash
+curl -sSL https://raw.githubusercontent.com/ericausente/nginx-elk-on-eks/refs/heads/main/cleanup.sh | bash
 ```
 
 🔍 How It Works
