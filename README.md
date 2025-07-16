@@ -32,7 +32,8 @@ No guesswork: *NGINX emits JSON logs → Filebeat parses and enriches → Elasti
 
 2. Deployment (One-Liner)
 
-```curl -sSL https://raw.githubusercontent.com/your-org/nginx-json-elk-on-eks/main/deploy.sh | bash
+```
+curl -sSL https://raw.githubusercontent.com/your-org/nginx-json-elk-on-eks/main/deploy.sh | bash
 ```
 
 The script will:
