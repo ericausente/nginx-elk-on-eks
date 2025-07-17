@@ -1,4 +1,4 @@
-<img width="3617" height="1982" alt="Screenshot 2025-07-17 094035" src="https://github.com/user-attachments/assets/9a1b7e19-ee26-4e81-8846-1784c59e0067" /># Kubernetes ELK Stack with NGINX JSON Logs and Filebeat (EKS-Ready)
+# Kubernetes ELK Stack with NGINX JSON Logs and Filebeat (EKS-Ready)
 
 A one-script quickstart for observability:  
 Deploy ephemeral **Elasticsearch**, **Kibana**, **Filebeat**, and a demo **NGINX** pod (with JSON-formatted access logs) in your Kubernetes cluster.  
@@ -74,6 +74,8 @@ Non-working JSON parsing:
 
 Working (Successfully parsing the JSON from the message field): 
 <img width="3617" height="1982" alt="Screenshot 2025-07-17 094035" src="https://github.com/user-attachments/assets/a16cd808-2447-400e-b78f-532483296f1f" />
+
+<img width="3617" height="1982" alt="Screenshot 2025-07-17 094035" src="https://github.com/user-attachments/assets/9a1b7e19-ee26-4e81-8846-1784c59e0067" />
 
 4. Clean Up
 ```
