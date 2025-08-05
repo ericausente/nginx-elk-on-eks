@@ -77,6 +77,7 @@ Working (Successfully parsing the JSON from the message field):
 
 
 4. Clean Up
+   
 ```
 curl -sSL https://raw.githubusercontent.com/ericausente/nginx-elk-on-eks/refs/heads/main/cleanup.sh | bash
 ```
